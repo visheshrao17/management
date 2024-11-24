@@ -1,0 +1,18 @@
+.item-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .loading-spinner {
+    text-align: center;
+    font-size: 18px;
+    color: #007bff;
+  }
+  
+  .error-message {
+    text-align: center;
+    color: red;
+    font-size: 18px;
+  }
+  
